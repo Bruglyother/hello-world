@@ -1,5 +1,9 @@
 #Programer: Gabriel Hart
 #Last revision: 3/4/22
+
+#This was an early prgogram for me, while I was learning the basics.  It has some issues even now, and while I could go back and edit it,
+#the reality is that it will be easier to start fresh with some of the skills I have learned since.
+
 x=input("How many bottles?")
 try:
     x=int(x)
